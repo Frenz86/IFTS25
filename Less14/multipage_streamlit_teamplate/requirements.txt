@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+pandas
+pillow
+joblib
+scikit-learn
+streamlit-folium
