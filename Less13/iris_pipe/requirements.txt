@@ -2,3 +2,6 @@ streamlit
 pandas
 seaborn
 joblib
+scikit-learn
+openpyxl
+xlxswriter

@@ -4,6 +4,8 @@ import seaborn as sns
 import joblib
 import io
 
+#st.set_page_config(layout="wide")
+
 class_mapping = {'setosa': 0,
                 'versicolor': 1,
                 'virginica': 2
@@ -17,6 +19,10 @@ def load_data():
     loaded_model = joblib.load('iris_pipe.pkl')
 
     return df,loaded_model
+
+@st.cache_data
+def pair(df):
+    return sns.pairplot(df,hue='species')
 
 def convert_to_excel(df):
     output = io.BytesIO()
@@ -33,7 +39,7 @@ def main():
     tab1, tab2,tab3 = st.tabs(["EDA", "Pred", "Batch"])
     with tab1:
         st.header("EDA")
-        fig = sns.pairplot(df,hue='species')
+        fig = pair(df)
         st.pyplot(fig)
 
     with tab2:
@@ -95,7 +101,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
