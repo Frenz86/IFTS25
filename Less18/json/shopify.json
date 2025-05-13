@@ -1,0 +1,1153 @@
+{
+  "number": "1030",
+  "articles": [
+    {
+      "product_id": "607",
+      "producer_id": "SUECOMME BONNIE",
+      "product_name": "DI2AM17030",
+      "description": "SHOES",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "SHOES",
+      "category3": "Sandals",
+      "product_detail": "  ",
+      "product_Material": " | ",
+      "product_Measure": "",
+      "product_Note": "",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 904,
+          "color": "01 NERO",
+          "base_color": "Black",
+          "MadeIn": "|",
+          "season": "081",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": true,
+          "size": [
+            {
+              "item_id": 1957,
+              "item_size": "38",
+              "barcode": "1000066700031",
+              "stock": 1,
+              "last_modified": "01/03/2018 00:00:00",
+              "country_size": "",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "377",
+              "supply_price_no_vat": "309,02",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/DI2AM17030_3__607_01_NERO_464_607_01 NERO_944.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DI2AM17030_4__607_01_NERO_465_607_01 NERO_945.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DI2AM17030_5__607_01_NERO_463_607_01 NERO_946.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 944,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DI2AM17030_3__607_01_NERO_464_607_01 NERO_944.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 945,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DI2AM17030_4__607_01_NERO_465_607_01 NERO_945.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 946,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DI2AM17030_5__607_01_NERO_463_607_01 NERO_946.jpg",
+              "isSellable": true,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "1666",
+      "producer_id": "GRLFRND",
+      "product_name": "GF4004131.S17",
+      "description": "KAROLINA HIGH",
+      "category1": "WOMAN",
+      "category2": "JEANS",
+      "category3": "Shorts",
+      "product_detail": "  ",
+      "product_Material": " | ",
+      "product_Measure": "",
+      "product_Note": "",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 2365,
+          "color": "G131 DENIM",
+          "base_color": "Blue",
+          "MadeIn": "Not Selected|",
+          "season": "082",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": false,
+          "size": [
+            {
+              "item_id": 4655,
+              "item_size": "29",
+              "barcode": "1000166600038",
+              "stock": 1,
+              "last_modified": "12/09/2018 00:00:00",
+              "country_size": "",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "298",
+              "supply_price_no_vat": "244,26",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_443.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_444.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_445.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_446.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_447.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 3869,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_443.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 3870,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_444.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 3871,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_445.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 3872,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_446.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 3873,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_447.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "1864",
+      "producer_id": "ASPESI",
+      "product_name": "6927.5763/01",
+      "description": "CINTURA ALTA",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "BELT",
+      "category3": "",
+      "product_detail": "  ",
+      "product_Material": " | ",
+      "product_Measure": "",
+      "product_Note": "",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 2652,
+          "color": "241 BLACK",
+          "base_color": "Black",
+          "MadeIn": "Not Selected|",
+          "season": "082",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": false,
+          "size": [
+            {
+              "item_id": 5548,
+              "item_size": "80",
+              "barcode": "1000187700030",
+              "stock": 1,
+              "last_modified": "19/03/2019 00:00:00",
+              "country_size": "IT",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "155",
+              "supply_price_no_vat": "127,05",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_690.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_691.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 4116,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_690.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4117,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_691.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "1931",
+      "producer_id": "ISSEY MIYAKE CAULIFLOWER",
+      "product_name": "CA86FK331",
+      "description": "ELASTICO IN VITA CORTO",
+      "category1": "WOMAN",
+      "category2": "TOPS",
+      "category3": "Blouse",
+      "product_detail": "  ",
+      "product_Material": " | ",
+      "product_Measure": "",
+      "product_Note": "",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 2758,
+          "color": "BLUE",
+          "base_color": "Blue",
+          "MadeIn": "Not Selected|",
+          "season": "082",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": false,
+          "size": [
+            {
+              "item_id": 5895,
+              "item_size": "UNICA",
+              "barcode": "1000195900010",
+              "stock": 1,
+              "last_modified": "12/09/2018 00:00:00",
+              "country_size": "",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "378",
+              "supply_price_no_vat": "309,84",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_877.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_878.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_879.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_880.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_881.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 4303,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_877.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4304,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_878.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4305,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_879.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4306,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_880.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4307,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_881.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "2258",
+      "producer_id": "GIAMBATTISTA VALLI",
+      "product_name": "GVS18.C672",
+      "description": "TOP",
+      "category1": "WOMAN",
+      "category2": "TOPS",
+      "category3": "Blouse",
+      "product_detail": "  ",
+      "product_Material": " | ",
+      "product_Measure": "",
+      "product_Note": "",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 3180,
+          "color": "350 ROSE",
+          "base_color": "Pink & Purple",
+          "MadeIn": "Not Selected|",
+          "season": "082",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": false,
+          "size": [
+            {
+              "item_id": 7005,
+              "item_size": "40",
+              "barcode": "1000229900015",
+              "stock": 1,
+              "last_modified": "07/05/2018 00:00:00",
+              "country_size": "",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "1098",
+              "supply_price_no_vat": "900",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1249.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1250.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1251.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1252.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1253.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 4675,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1249.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4676,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1250.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4677,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1251.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4678,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1252.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4679,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1253.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "2438",
+      "producer_id": "ZANELLATO",
+      "product_name": "ZA36PEL0613118|083",
+      "description": "POSTINA M DAILY",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "BAG",
+      "category3": "Shoulder bags",
+      "product_detail": "  ",
+      "product_Material": " | ",
+      "product_Measure": "",
+      "product_Note": "",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 3416,
+          "color": "T7 CRETA",
+          "base_color": "Nude & Neutrals",
+          "MadeIn": "Not Selected|",
+          "season": "083",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": false,
+          "size": [
+            {
+              "item_id": 7633,
+              "item_size": "UNICA",
+              "barcode": "1000248000040",
+              "stock": 1,
+              "last_modified": "09/11/2019 00:00:00",
+              "country_size": "",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "495",
+              "supply_price_no_vat": "405,74",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1405.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1406.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1407.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1408.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1409.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 4831,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1405.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4832,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1406.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4833,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1407.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4834,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1408.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 4835,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_1409.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "2659",
+      "producer_id": "LINDA FARROW",
+      "product_name": "MW208",
+      "description": "Matthew Williamson oversized sunglasses",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "GLASSES",
+      "category3": "Sunglasses",
+      "product_detail": "Metal (Other) Metal 100% ",
+      "product_Material": "Metal (Other) | Metal 100%",
+      "product_Measure": "",
+      "product_Note": "Round frames, gradient lenses and straight arms with curved tips. This item comes with a protective case.",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 3771,
+          "color": "C2 BLACK YELLOW",
+          "base_color": "Black",
+          "MadeIn": "Not Selected|",
+          "season": "083",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": true,
+          "size": [
+            {
+              "item_id": 8433,
+              "item_size": "UNICA",
+              "barcode": "3000269400018",
+              "stock": 1,
+              "last_modified": "08/12/2018 00:00:00",
+              "country_size": "IT",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "238",
+              "supply_price_no_vat": "195,08",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/MATTEW_1__2659_3771_2895.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/MATTEW_2__2659_3771_2896.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/MATTEW_3__2659_3771_2897.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/MATTEW_4__2659_3771_2898.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 2895,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/MATTEW_1__2659_3771_2895.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2896,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/MATTEW_2__2659_3771_2896.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2897,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/MATTEW_3__2659_3771_2897.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2898,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/MATTEW_4__2659_3771_2898.jpg",
+              "isSellable": true,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "2660",
+      "producer_id": "LINDA FARROW",
+      "product_name": "DVN174",
+      "description": "Dries Van Noten sunglasses",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "GLASSES",
+      "category3": "Sunglasses",
+      "product_detail": "Acetate Acetate 100%, Stainless Steel 100% ",
+      "product_Material": "Acetate | Acetate 100%, Stainless Steel 100%",
+      "product_Measure": "",
+      "product_Note": "Stainless steel and acetate Dries Van Noten D-frame sunglasses from Linda Farrow. This item comes with a protective case.",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 3772,
+          "color": "C2 MULTICOLOUR",
+          "base_color": "Blue",
+          "MadeIn": "Not Selected|",
+          "season": "083",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": true,
+          "size": [
+            {
+              "item_id": 8434,
+              "item_size": "UNICA",
+              "barcode": "3000269500014",
+              "stock": 1,
+              "last_modified": "26/03/2019 00:00:00",
+              "country_size": "IT",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "298",
+              "supply_price_no_vat": "244,26",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_1__2660_3772_2899.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_2__2660_3772_2900.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_3__2660_3772_2901.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_4__2660_3772_2902.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_5__2660_3772_2903.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 2899,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_1__2660_3772_2899.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2900,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_2__2660_3772_2900.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2901,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_3__2660_3772_2901.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2902,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_4__2660_3772_2902.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2903,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES_5__2660_3772_2903.jpg",
+              "isSellable": true,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "2661",
+      "producer_id": "LINDA FARROW",
+      "product_name": "DVN176",
+      "description": "Dries Van Noten sunglasses",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "GLASSES",
+      "category3": "Sunglasses",
+      "product_detail": "Metal (Other)  ",
+      "product_Material": "Metal (Other) | ",
+      "product_Measure": "",
+      "product_Note": "Little lents.",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 3773,
+          "color": "C1 SILVER BLACK",
+          "base_color": "Grey",
+          "MadeIn": "Not Selected|",
+          "season": "083",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": true,
+          "size": [
+            {
+              "item_id": 8435,
+              "item_size": "UNICA",
+              "barcode": "3000269600017",
+              "stock": 2,
+              "last_modified": "17/12/2022 00:00:00",
+              "country_size": "IT",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "298",
+              "supply_price_no_vat": "244,26",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES2_1__2661_3773_2904.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES2_2__2661_3773_2905.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES2_3__2661_3773_2906.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/DRIES2_4__2661_3773_2907.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 2904,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES2_1__2661_3773_2904.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2905,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES2_2__2661_3773_2905.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2906,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES2_3__2661_3773_2906.jpg",
+              "isSellable": true,
+              "web": "S"
+            },
+            {
+              "Id": 2907,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/DRIES2_4__2661_3773_2907.jpg",
+              "isSellable": true,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "2903",
+      "producer_id": "GIAMBATTISTA VALLI",
+      "product_name": "GVPF18345TER.GVCBO",
+      "description": "Bow detail coat",
+      "category1": "WOMAN",
+      "category2": "COAT",
+      "category3": "Parka & duffle",
+      "product_detail": " Silk 100%, Cotton 100%, Polyester 100% ",
+      "product_Material": " | Silk 100%, Cotton 100%, Polyester 100%",
+      "product_Measure": "",
+      "product_Note": "Black silk and cotton blend bow detail coat from Giambattista Valli. Single breasted",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 4104,
+          "color": "1 BLACK",
+          "base_color": "Black",
+          "MadeIn": "|",
+          "season": "083",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": false,
+          "size": [
+            {
+              "item_id": 9237,
+              "item_size": "44",
+              "barcode": "3000288000023",
+              "stock": 1,
+              "last_modified": "16/03/2019 00:00:00",
+              "country_size": "IT",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "2155",
+              "supply_price_no_vat": "1766,39",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/gvpf18345tergvcbo1_1__2903_4104_3381.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/gvpf18345tergvcbo1_2__2903_4104_3382.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/gvpf18345tergvcbo1_3__2903_4104_3383.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_019.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_020.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_021.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_022.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_023.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 3381,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/gvpf18345tergvcbo1_1__2903_4104_3381.jpg",
+              "isSellable": false,
+              "web": "N"
+            },
+            {
+              "Id": 3382,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/gvpf18345tergvcbo1_2__2903_4104_3382.jpg",
+              "isSellable": false,
+              "web": "N"
+            },
+            {
+              "Id": 3383,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/gvpf18345tergvcbo1_3__2903_4104_3383.jpg",
+              "isSellable": false,
+              "web": "N"
+            },
+            {
+              "Id": 17231,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_019.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 17232,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_020.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 17233,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_021.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 17234,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_022.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 17235,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/17122019/17122019_023.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "3078",
+      "producer_id": "KILTIE",
+      "product_name": "KB020TT4077",
+      "description": "HELENA",
+      "category1": "WOMAN",
+      "category2": "COAT",
+      "category3": "Parka & duffle",
+      "product_detail": "  ",
+      "product_Material": " | ",
+      "product_Measure": "",
+      "product_Note": "",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 4355,
+          "color": "790 BLUE NAVY",
+          "base_color": "Blue",
+          "MadeIn": "Not Selected|",
+          "season": "083",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": false,
+          "size": [
+            {
+              "item_id": 9831,
+              "item_size": "46",
+              "barcode": "3000307700046",
+              "stock": 1,
+              "last_modified": "13/02/2019 00:00:00",
+              "country_size": "",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "510",
+              "supply_price_no_vat": "418,03",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2414.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2415.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2416.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2417.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2418.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 5840,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2414.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 5841,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2415.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 5842,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2416.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 5843,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2417.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 5844,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/02022019/02022019_2418.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "3205",
+      "producer_id": "GEDEBE",
+      "product_name": "CLIKYPYTHON|084",
+      "description": "CLIKY",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "BAG",
+      "category3": "Shoulder bags",
+      "product_detail": "Leather  H 14cm, W: 21cm, D: 4 cm",
+      "product_Material": "Leather | ",
+      "product_Measure": "H 14cm, W: 21cm, D: 4 cm",
+      "product_Note": "Cliky clutch in laminated effect python skin, front flap with magnetic closure in gold laminated metal, crystal details, inside pocket, gold laminated brass chain shoulder strap,",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 4526,
+          "color": "ROCCIA GOLD",
+          "base_color": "Metallic",
+          "MadeIn": "Not Selected|",
+          "season": "084",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": true,
+          "size": [
+            {
+              "item_id": 10234,
+              "item_size": "UNICA",
+              "barcode": "3000322900012",
+              "stock": 1,
+              "last_modified": "08/05/2019 00:00:00",
+              "country_size": "",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "685",
+              "supply_price_no_vat": "561,48",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/4526_6325.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/4526_6326.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/4526_6327.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 6325,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4526_6325.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 6326,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4526_6326.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 6327,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4526_6327.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "3207",
+      "producer_id": "GEDEBE",
+      "product_name": "MINIBRIGITTE",
+      "description": "MINI BRIGITTE",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "BAG",
+      "category3": "Shoulder bags",
+      "product_detail": "Leather  D 6 cm, H 14 cm, STRAP 28 cm, W 19 cm",
+      "product_Material": "Leather | ",
+      "product_Measure": "D 6 cm, H 14 cm, STRAP 28 cm, W 19 cm",
+      "product_Note": "mini, detachable application, rhinestones, solid color, magnetic fastening, internal pockets, bag handle, metallic straps, fully lined, contains non-textile parts of animal origin, messenger",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 4530,
+          "color": "GOLD ROSE",
+          "base_color": "Yellow & Orange",
+          "MadeIn": "Not Selected|",
+          "season": "084",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": true,
+          "size": [
+            {
+              "item_id": 10238,
+              "item_size": "UNICA",
+              "barcode": "3000323100026",
+              "stock": 1,
+              "last_modified": "07/08/2019 00:00:00",
+              "country_size": "IT",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "650",
+              "supply_price_no_vat": "532,79",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/4530_6331.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/4530_6332.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/4530_6333.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 6331,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4530_6331.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 6332,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4530_6332.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 6333,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4530_6333.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    },
+    {
+      "product_id": "3443",
+      "producer_id": "SAINT LAURENT",
+      "product_name": "571173.Y9902",
+      "description": "Diamond-shape frame sunglasses",
+      "category1": "WOMAN ACCESSORIES",
+      "category2": "GLASSES",
+      "category3": "Sunglasses",
+      "product_detail": " metal 100% ",
+      "product_Material": " | metal 100%",
+      "product_Measure": "",
+      "product_Note": "black tinted lenses and thin black-tone diamond-shape frames.",
+      "heel": "",
+      "sole": "",
+      "asta": "0",
+      "ponte": "0",
+      "asian_fit": "",
+      "hscode": "",
+      "colors": [
+        {
+          "idcolor": 4850,
+          "color": "1000 BLACK",
+          "base_color": "Black",
+          "MadeIn": "Not Selected|",
+          "season": "084",
+          "web": "S",
+          "CarryOver": "0",
+          "publish": true,
+          "size": [
+            {
+              "item_id": 11071,
+              "item_size": "UNICA",
+              "barcode": "3000346800011",
+              "stock": 1,
+              "last_modified": "14/05/2024 00:00:00",
+              "country_size": "IT",
+              "EAN": "",
+              "itemtype": "A",
+              "supply_price": "325",
+              "supply_price_no_vat": "266,39",
+              "supply_promo_price": "0",
+              "supply_promo_price_no_vat": "0"
+            }
+          ],
+          "pictures": [
+            "https://www.net13server3.it/mimmaninni/ObjImg/4850_7009.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/4850_7010.jpg",
+            "https://www.net13server3.it/mimmaninni/ObjImg/4850_7011.jpg"
+          ],
+          "pictures_sellable": [
+            {
+              "Id": 7009,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4850_7009.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 7010,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4850_7010.jpg",
+              "isSellable": false,
+              "web": "S"
+            },
+            {
+              "Id": 7011,
+              "url": "https://www.net13server3.it/mimmaninni/ObjImg/4850_7011.jpg",
+              "isSellable": false,
+              "web": "S"
+            }
+          ],
+          "language": []
+        }
+      ]
+    }
+  ]
+}
