@@ -1,0 +1,311 @@
+,name,year,Price,bottles_stored,cellar_type
+0,Chardonnay Estate,2019,"5,018",106 btl,Premium
+1,Sauvignon Vintage,2022,"2,970","1,513 btl",Standard
+2,Chardonnay Select,2018,"9,389",614 btl,Basic
+3,Grenache Superior,2022,"6,765",,Premium
+4,Barbaresco Vintage,2016,"2,202",1213 bottles,Standard
+5,Malbec Vintage,2019,Ask For Price,"1,008 btl",Premium
+6,Rioja Classic,2023,"6,567","1,270 btl",Premium
+7,Chianti Vintage,2018,"8,667","1,856 btl",Premium
+8,Barolo Classic,2020,"6,742",406 btl,Standard
+9,Chianti Special,2015,"6,788","1,846",Basic
+10,Bordeaux Select,2023,"6,408",972 btl,Standard
+11,Barolo Limited,2015,Ask For Price,854 btl,Basic
+12,Syrah Select,2019,"1,922","1,330 btl",Basic
+13,Merlot Gran Reserve,2018,"1,419",961 btl,Basic
+14,Barolo Superior,2017,"3,204",785,Basic
+15,Tempranillo Limited,2020,"2,120","1,487 btl",Standard
+16,Rioja Special,2016,"1,950","1,685 btl",Standard
+17,Grenache Superior,2017,"3,336",519 btl,Basic
+18,Cava Superior,2019,"6,373",,Premium
+19,Zinfandel Estate,2023,"3,243",434 btl,Standard
+20,Riesling Reserve,2016,"3,645",854 btl,Premium
+21,Cava Select,2022,"5,612","1,391 btl",Standard
+22,Chianti Estate,2016,Ask For Price,120 btl,Standard
+23,Sauvignon Superior,2019,"7,028","1,643 btl",
+24,Barolo Vintage,2021,"8,326","1,421 btl",Premium
+25,Sauvignon Gran Reserve,2022,"7,371",474 btl,Basic
+26,Riesling Premium,2015,Ask For Price,652 btl,Basic
+27,Malbec Reserve,2020,"8,863","1,746 btl",Standard
+28,Prosecco Estate,2015,"4,228","1,207 btl",
+29,Chianti Classic,2016,"4,719",990 btl,Basic
+30,Champagne Estate,2015,Ask For Price,"1,286 btl",Standard
+31,Zinfandel Select,2019,"3,891","1,547 btl",
+32,Barolo Reserve,2023,"4,756","1,018 btl",Premium
+33,Champagne Estate,2020,"5,225","1,830 btl",Premium
+34,Riesling Vintage,2015,"1,094","1,728 btl",Premium
+35,Riesling Superior,2015,"3,674","1,380 btl",Standard
+36,Prosecco Special,2016,"7,898","1,071 btl",Standard
+37,Merlot Reserve,2023,"1,793","1,407 btl",Standard
+38,Sauvignon Special,2017,"3,116",,Basic
+39,Brunello Limited,2015,Ask For Price,264 btl,Premium
+40,Sauvignon Premium,2019,"7,166","1,947 btl",Standard
+41,Chardonnay Limited,2021,Ask For Price,719 btl,Standard
+42,Bordeaux Vintage,2020,"1,345",433,Premium
+43,Barbaresco Gran Reserve,2015,"9,554","1,143 btl",
+44,Syrah Vintage,2019,"3,443","1,158 btl",Basic
+45,Rioja Gran Reserve,2019,"8,783",936 btl,Standard
+46,Bordeaux Special,2020,"1,984","1,135 btl",Standard
+47,Champagne Superior,2017,"8,790","1,339 btl",Premium
+48,Cava Superior,2019,"1,827",316,Standard
+49,Cava Vintage,2021,"4,531","1,346 btl",Premium
+50,Barolo Reserve,2019,"8,147","1,018 btl",Basic
+51,Bordeaux Superior,2019,"5,451",483 btl,Standard
+52,Pinot Noir Gran Reserve,2019,"4,876",845 btl,Standard
+53,Barolo Vintage,2017,"6,959","1,464 btl",Basic
+54,Rioja Premium,2015,"1,126","1,475 btl",Basic
+55,Rioja Special,2019,"4,177","1,298 btl",Basic
+56,Sauvignon Gran Reserve,2023,"9,795","1,341 btl",Premium
+57,Bordeaux Special,2015,"7,024","1,268",Standard
+58,Riesling Superior,2017,"6,109",687 btl,
+59,Cava Select,2018,"5,146",900 btl,Premium
+60,Champagne Gran Reserve,2015,"8,196","1,777 btl",Premium
+61,Chardonnay Premium,2015,"4,368",709 bottles,Standard
+62,Tempranillo Estate,2022,"4,797",803 btl,Premium
+63,Pinot Noir Superior,2016,"2,792",,Basic
+64,Chardonnay Estate,2022,Ask For Price,787 btl,Premium
+65,Brunello Superior,2021,Ask For Price,"1,282 btl",Standard
+66,Grenache Classic,2016,"4,417","1,504 btl",Standard
+67,Chianti Select,2020,"2,645",1947,Premium
+68,Brunello Limited,2020,"4,030","1,100 btl",Standard
+69,Cabernet Estate,2017,"3,872","1,764 btl",Premium
+70,Barbaresco Select,2016,"4,072","1,724 btl",Standard
+71,Chardonnay Premium,2015,"2,854",810 btl,Basic
+72,Bordeaux Limited,2020,"5,021",704 btl,Basic
+73,Tempranillo Limited,2019,Ask For Price,"1,620 btl",Standard
+74,Rioja Superior,2023,"7,514","1,390",Basic
+75,Cabernet Vintage,2015,"6,031",941 btl,Basic
+76,Cava Special,2021,"3,708",184 btl,Premium
+77,Bordeaux Gran Reserve,2019,"8,112",553 btl,Standard
+78,Champagne Vintage,2019,"9,393",764 btl,Basic
+79,Sauvignon Classic,2016,"4,507","1,416 btl",Premium
+80,Cava Estate,2017,"7,456",142 btl,Premium
+81,Syrah Premium,2021,"5,212",597 btl,Basic
+82,Tempranillo Superior,2020,"8,970",120 btl,
+83,Chianti Gran Reserve,2016,"9,766","1,938",Standard
+84,Syrah Special,2020,"1,536","1,927 btl",Standard
+85,Syrah Vintage,2016,"2,625",888 btl,Premium
+86,Syrah Premium,2016,"8,973","1,457 btl",
+87,Chianti Reserve,2016,"9,577","1,687 btl",Standard
+88,Pinot Noir Premium,2017,"9,070","1,279 btl",Premium
+89,Bordeaux Gran Reserve,2016,"9,666","1,543 btl",Basic
+90,Chianti Special,2018,"9,609",688 btl,
+91,Barolo Select,2023,"7,490","1,582 btl",Basic
+92,Cabernet Superior,2020,Ask For Price,"1,162 btl",Basic
+93,Malbec Superior,2015,"7,783",411 btl,
+94,Barbaresco Vintage,2022,"5,971",1462 bottles,Standard
+95,Syrah Classic,2021,"2,205","1,898 btl",Standard
+96,Pinot Noir Estate,2017,"2,990",460,Premium
+97,Chianti Classic,2015,"6,299",986 btl,Basic
+98,Barbaresco Premium,2019,"4,572","1,343 btl",Basic
+99,Cava Classic,2018,"6,975",109 btl,Premium
+100,Merlot Gran Reserve,2022,"7,320",781 btl,
+101,Tempranillo Estate,2015,"5,380","1,277 btl",Standard
+102,Grenache Select,2015,"5,757",763 btl,Standard
+103,Rioja Gran Reserve,2018,"3,713","1,325 btl",Basic
+104,Tempranillo Superior,2022,"6,588","1,092 btl",Basic
+105,Tempranillo Limited,2019,"1,966","1,684 btl",Premium
+106,Bordeaux Vintage,2016,"5,944",730 btl,Premium
+107,Chardonnay Reserve,2020,"4,432",904 btl,Basic
+108,Prosecco Premium,2019,Ask For Price,"1,283 btl",Basic
+109,Barbaresco Limited,2016,"5,243","1,200 btl",Basic
+110,Zinfandel Superior,2017,"4,701",869 btl,Standard
+111,Champagne Gran Reserve,2023,"9,533","1,781 btl",Premium
+112,Chardonnay Select,2021,"6,182","1,290 btl",Premium
+113,Merlot Limited,2021,"7,704","1,403",Premium
+114,Tempranillo Premium,2020,"5,422",1725,Premium
+115,Chianti Premium,2022,"2,759",720 btl,Premium
+116,Merlot Special,2018,"3,482",452 btl,Basic
+117,Pinot Noir Superior,2022,"9,058","1,476 btl",Premium
+118,Cava Limited,2018,Ask For Price,807 btl,
+119,Rioja Gran Reserve,2022,"9,914","1,055 btl",Standard
+120,Merlot Gran Reserve,2023,"3,079",248 btl,Standard
+121,Tempranillo Vintage,2017,"3,717",166 btl,Basic
+122,Bordeaux Vintage,2017,"5,524","1,382 btl",Premium
+123,Tempranillo Premium,2016,"9,477","1,295 btl",Standard
+124,Prosecco Estate,2017,Ask For Price,453 btl,Basic
+125,Cabernet Vintage,2017,"8,186",761 btl,Standard
+126,Tempranillo Gran Reserve,2019,"3,065","1,968 btl",Premium
+127,Merlot Limited,2019,Ask For Price,410 btl,
+128,Rioja Limited,2016,"6,490",732 btl,Basic
+129,Zinfandel Reserve,2020,"7,645","1,523",Premium
+130,Chianti Classic,2019,"6,083","1,779 btl",
+131,Rioja Limited,2020,"6,232",726 btl,Basic
+132,Malbec Premium,2015,"6,797","1,995 btl",Premium
+133,Malbec Premium,2019,"5,926",385 btl,
+134,Riesling Special,2023,"7,016","1,077 btl",Standard
+135,Merlot Estate,2016,"4,335","1,112 btl",Basic
+136,Prosecco Superior,2015,"9,038",837 btl,Basic
+137,Rioja Premium,2023,"5,873","1,786 btl",Premium
+138,Bordeaux Gran Reserve,2023,"2,481",440 btl,Premium
+139,Riesling Classic,2023,"7,305",548 btl,Premium
+140,Cabernet Gran Reserve,2020,"4,451","1,530 btl",Basic
+141,Prosecco Reserve,2022,"1,054",361 btl,Standard
+142,Bordeaux Premium,2015,"8,643",441 btl,Basic
+143,Pinot Noir Gran Reserve,2018,"4,462",111 btl,Standard
+144,Malbec Gran Reserve,2015,"1,832",693 btl,Basic
+145,Syrah Premium,2022,"6,954","1,793 btl",Premium
+146,Barolo Special,2015,"9,519","1,130 btl",Standard
+147,Cabernet Gran Reserve,2017,"8,221","1,528 btl",
+148,Cava Special,2018,"4,310",,Premium
+149,Syrah Special,2022,"4,300","1,329 btl",
+150,Rioja Premium,2020,"7,722","1,660 btl",Basic
+151,Tempranillo Special,2021,Ask For Price,"1,412 btl",Standard
+152,Bordeaux Gran Reserve,2022,"8,776","1,233 btl",Premium
+153,Zinfandel Limited,2016,"4,675","1,559 btl",Basic
+154,Champagne Classic,2022,"4,054","1,148 btl",Basic
+155,Rioja Vintage,2017,"8,970","1,016 btl",Premium
+156,Riesling Vintage,2021,"3,143",,Standard
+157,Zinfandel Classic,2017,"6,207","1,135 btl",Premium
+158,Chianti Select,2021,"3,538","1,776 btl",Basic
+159,Chianti Select,2016,"5,547","1,088 btl",Premium
+160,Syrah Vintage,2020,Ask For Price,"1,984 btl",Premium
+161,Bordeaux Limited,2017,"9,356",,Standard
+162,Barbaresco Classic,2017,"7,612",386 btl,Standard
+163,Merlot Superior,2023,"6,005",877 btl,Premium
+164,Champagne Superior,2021,"1,822",789 btl,Premium
+165,Rioja Reserve,2019,"1,943",556 btl,Premium
+166,Brunello Select,2021,"7,150",248 btl,Basic
+167,Chardonnay Limited,2023,"5,425",982 btl,Basic
+168,Malbec Estate,2015,"9,966",708 btl,Basic
+169,Bordeaux Vintage,2021,"3,198",884 btl,
+170,Riesling Gran Reserve,2020,"5,242","1,344 btl",Basic
+171,Sauvignon Reserve,2023,"4,695",1876 bottles,Premium
+172,Chianti Superior,2015,"4,452","1,826 btl",Basic
+173,Grenache Limited,2018,"2,308",618 btl,Premium
+174,Syrah Estate,2023,"5,177",554 btl,Premium
+175,Champagne Classic,2018,"9,705",609 btl,Premium
+176,Sauvignon Classic,2017,"7,852",504 btl,Standard
+177,Barbaresco Special,2023,"7,035",,Premium
+178,Bordeaux Vintage,2016,"4,594","1,949 btl",Basic
+179,Barolo Special,2018,Ask For Price,"1,136 btl",Basic
+180,Chardonnay Estate,2020,"2,409",,
+181,Cabernet Estate,2016,"5,566",437 btl,Standard
+182,Sauvignon Gran Reserve,2022,Ask For Price,564,Standard
+183,Prosecco Estate,2022,"2,555",802 btl,Standard
+184,Merlot Reserve,2015,"1,804",728 btl,
+185,Champagne Gran Reserve,2017,"2,279",1861 bottles,Premium
+186,Syrah Vintage,2023,Ask For Price,"1,350 btl",
+187,Grenache Select,2019,"6,986","1,545 btl",
+188,Pinot Noir Select,2020,"6,619",724 btl,Basic
+189,Cava Special,2018,"2,387",492 btl,Premium
+190,Bordeaux Select,2016,"3,679","1,683 btl",Standard
+191,Bordeaux Reserve,2022,"3,106","1,949 btl",Premium
+192,Merlot Limited,2020,"9,173","1,407 btl",
+193,Prosecco Special,2019,Ask For Price,825 btl,Standard
+194,Bordeaux Superior,2023,Ask For Price,"1,055 btl",Basic
+195,Pinot Noir Classic,2015,"3,768",680 btl,Standard
+196,Rioja Select,2019,"4,186",200 btl,Standard
+197,Merlot Gran Reserve,2020,"3,573",,Basic
+198,Pinot Noir Classic,2019,"3,599",,Standard
+199,Riesling Special,2020,"5,033","1,558 btl",
+200,Sauvignon Premium,2020,"9,428","1,768",Basic
+201,Riesling Estate,2021,"2,304",465 btl,Basic
+202,Pinot Noir Select,2018,"8,368",461 bottles,Standard
+203,Merlot Special,2022,"6,877","1,614 btl",Standard
+204,Chardonnay Estate,2021,"2,301","1,475 btl",Basic
+205,Bordeaux Special,2023,"3,541","1,746 btl",Premium
+206,Champagne Classic,2021,"3,051","1,346 btl",
+207,Pinot Noir Estate,2017,"7,809",428 btl,Basic
+208,Chianti Estate,2017,Ask For Price,"1,684 btl",Basic
+209,Champagne Select,2022,"9,996","1,740 btl",
+210,Grenache Select,2019,"1,074",289 btl,Standard
+211,Bordeaux Vintage,2018,"7,981",1247,Standard
+212,Pinot Noir Estate,2022,"6,475",473 btl,Basic
+213,Merlot Vintage,2020,"9,232","1,411 btl",Basic
+214,Merlot Superior,2016,"8,184",621 btl,Basic
+215,Chianti Premium,2018,"6,796",282 btl,Standard
+216,Tempranillo Vintage,2018,"8,141",945 btl,Standard
+217,Barolo Reserve,2020,"2,622",889 btl,Premium
+218,Rioja Premium,2020,"9,041","1,295 btl",Standard
+219,Bordeaux Gran Reserve,2015,"1,341",987 btl,Premium
+220,Barbaresco Special,2022,"3,074","1,345 btl",Premium
+221,Barolo Gran Reserve,2020,"8,992","1,356 btl",Premium
+222,Bordeaux Premium,2017,"1,645","1,121 btl",Basic
+223,Prosecco Select,2023,"5,263","1,483 btl",
+224,Barbaresco Reserve,2016,"9,801","1,859 btl",Basic
+225,Grenache Reserve,2022,Ask For Price,334 btl,Basic
+226,Rioja Superior,2017,"9,646","1,904 btl",Basic
+227,Syrah Select,2019,"3,969",562 btl,Standard
+228,Prosecco Select,2020,"4,028","1,586 btl",Standard
+229,Champagne Select,2020,"8,643",560 btl,Standard
+230,Chianti Gran Reserve,2018,"3,681","1,476 btl",Premium
+231,Cava Superior,2017,"4,629",118 btl,Premium
+232,Malbec Select,2018,"5,225",207 btl,Basic
+233,Zinfandel Vintage,2015,"4,067","1,234 btl",Premium
+234,Malbec Limited,2018,"6,941","1,707 btl",Basic
+235,Malbec Select,2015,"2,386",590 bottles,Basic
+236,Pinot Noir Limited,2015,"3,866","1,955 btl",Standard
+237,Rioja Premium,2020,"5,788","1,133 btl",Standard
+238,Rioja Estate,2019,"6,490","1,854 btl",Basic
+239,Zinfandel Premium,2018,Ask For Price,"1,136 btl",Standard
+240,Chardonnay Vintage,2017,"9,340",1045,Premium
+241,Pinot Noir Premium,2015,"4,850",308,Premium
+242,Brunello Superior,2020,"6,415",,Standard
+243,Rioja Limited,2016,"8,679","1,143 btl",Premium
+244,Syrah Premium,2022,"7,819",1816 bottles,Premium
+245,Tempranillo Limited,2019,"9,378",797 btl,Standard
+246,Brunello Gran Reserve,2021,"2,333","1,143 btl",Premium
+247,Syrah Estate,2016,"5,150","1,277 btl",Standard
+248,Barolo Limited,2022,"7,766",970 btl,Premium
+249,Grenache Limited,2016,"3,711",,Premium
+250,Chardonnay Estate,2018,Ask For Price,"1,180 btl",Standard
+251,Grenache Select,2015,"7,212",682 btl,Basic
+252,Sauvignon Special,2019,"8,479","1,851 btl",Standard
+253,Pinot Noir Gran Reserve,2023,"6,408",599 btl,Premium
+254,Barolo Limited,2015,"8,715",261 btl,Premium
+255,Tempranillo Special,2023,"9,942",1266,Basic
+256,Malbec Special,2022,Ask For Price,310 btl,Basic
+257,Merlot Limited,2020,Ask For Price,641 btl,Basic
+258,Chardonnay Special,2021,"8,674",967 btl,Basic
+259,Champagne Select,2017,"7,122",839 btl,Basic
+260,Chardonnay Select,2015,"1,481",580 btl,Standard
+261,Pinot Noir Gran Reserve,2019,"1,153",862 btl,Basic
+262,Barbaresco Reserve,2016,"8,617","1,948 btl",Basic
+263,Sauvignon Limited,2019,"2,524",500 btl,Standard
+264,Champagne Select,2022,"3,120","1,170 btl",Standard
+265,Barolo Premium,2023,Ask For Price,177 btl,Basic
+266,Cabernet Superior,2016,"6,136",701 btl,Premium
+267,Riesling Vintage,2017,"6,760","1,696 btl",Standard
+268,Champagne Limited,2017,"2,240","1,742 btl",Basic
+269,Zinfandel Select,2015,"1,060",,Basic
+270,Chianti Special,2022,"2,639","1,972 btl",Basic
+271,Pinot Noir Classic,2020,"7,185","1,549 btl",Premium
+272,Grenache Vintage,2022,"8,970",680 btl,Basic
+273,Merlot Premium,2023,"2,252",148 btl,Premium
+274,Tempranillo Premium,2019,"5,203",455 btl,Premium
+275,Chardonnay Limited,2017,Ask For Price,842 btl,Standard
+276,Brunello Estate,2019,"4,549",891 btl,Basic
+277,Malbec Classic,2019,"5,197","1,305 btl",Standard
+278,Grenache Classic,2019,Ask For Price,"1,692 btl",Standard
+279,Chardonnay Select,2017,"7,667",647 btl,Basic
+280,Grenache Superior,2018,Ask For Price,,Basic
+281,Rioja Reserve,2023,Ask For Price,"1,465",Basic
+282,Tempranillo Vintage,2023,"7,960","1,343 btl",Basic
+283,Cava Superior,2016,"4,004","1,523 btl",Basic
+284,Bordeaux Gran Reserve,2022,"6,136",304 btl,Basic
+285,Brunello Limited,2022,"1,329","1,351 btl",Basic
+286,Syrah Limited,2021,"4,640",,Basic
+287,Bordeaux Classic,2022,"8,982","1,564 btl",Premium
+288,Cabernet Select,2017,"5,107","1,642 btl",Basic
+289,Barolo Special,2020,"2,341",771 btl,Premium
+290,Merlot Classic,2015,"9,407","1,778 btl",Premium
+291,Barbaresco Special,2021,"1,338","1,789 btl",Basic
+292,Malbec Gran Reserve,2015,Ask For Price,"1,436 btl",Basic
+293,Grenache Estate,2023,"3,708","1,704 btl",Premium
+294,Zinfandel Limited,2015,Ask For Price,"1,083 btl",Premium
+295,Syrah Premium,2015,"6,604",952 btl,Standard
+296,Rioja Superior,2021,"3,421",524 btl,Premium
+297,Barbaresco Select,2016,"8,119",,
+298,Merlot Vintage,2019,"9,901","1,116 btl",Standard
+299,Cabernet Vintage,2022,"6,319",692 btl,Standard
+300,Barolo Superior,2017,3204,785,Basic
+301,Prosecco Select,2023,5263,"1,483 bottles",
+302,Champagne Gran Reserve,2015,8196,"1,777 bottles",Premium
+303,Tempranillo Vintage,2017,3717,166 bottles,Basic
+304,Brunello Estate,2019,4549,891 bottles,Basic
+305,Rioja Gran Reserve,2019,8783,936 bottles,Standard
+306,Grenache Estate,2023,3708,"1,704 bottles",Premium
+307,Chardonnay Premium,2015,4368,709 bottles,Standard
+308,Syrah Vintage,2016,2625,888 bottles,Premium
+309,Champagne Select,2022,9996,"1,740 bottles",
